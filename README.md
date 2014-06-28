@@ -1,4 +1,4 @@
 quitestyleWA
 ============
 
-basemap using quiteStyle-LA for TileMill
+Basemap development using quiteStyle-LA for TileMill
