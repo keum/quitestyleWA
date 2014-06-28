@@ -5,7 +5,8 @@ quitestyleWA
 
 ##Steps:
 
-1. Using OSM data from Geofabrik for WA State, Washington-lates.OSM bz2 data.
+1. Using OSM data from Geofabrik for WA State, Washington-lates.OSM bz2 data. Using this URL:
+http://download.geofabrik.de/north-america/us/washington.html
 
 2. Using TileMill to stylize using CartoCSS (MSS files)
 
